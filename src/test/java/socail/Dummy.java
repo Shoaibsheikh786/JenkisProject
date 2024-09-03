@@ -8,7 +8,8 @@ import org.testng.annotations.Test;
 
 
 public class Dummy {
-	
+
+	//priority 1
 	@Test
 	public void test1()
 	{
